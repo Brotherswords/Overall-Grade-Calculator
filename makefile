@@ -24,7 +24,7 @@ CXXFLAGS = -g -std=c++11
 OBJS = database.o
 
 ######Change from hw to whatever TARGET name you want for the executable.###
-TARGET = prpt3
+TARGET = gradecalc
 
 ######Do NOT change the following 5 lines...Tabs Matter!#########
 $(TARGET): $(OBJS)
